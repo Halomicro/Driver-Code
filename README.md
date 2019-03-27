@@ -1,6 +1,7 @@
 # Driver-Code
 
 HL6111R V0.1
+
 	2019/03/27
 	Write the following two functions：
 	1、The Vout configuration function is：static int hl6111r_set_vout_regulation(struct hl6111r_device_info *di)
